@@ -1,0 +1,26 @@
+100000筆double資料merge_sort的時間: 0.031
+100000筆float 資料merge_sort的時間: 0.031
+100000筆long  資料merge_sort的時間: 0.016
+100000筆int   資料merge_sort的時間: 0.032
+100000筆string資料merge_sort的時間: 0.145
+200000筆double資料merge_sort的時間: 0.048
+200000筆float 資料merge_sort的時間: 0.046
+200000筆long  資料merge_sort的時間: 0.032
+200000筆int   資料merge_sort的時間: 0.032
+200000筆string資料merge_sort的時間: 0.315
+300000筆double資料merge_sort的時間: 0.079
+300000筆float 資料merge_sort的時間: 0.078
+300000筆long  資料merge_sort的時間: 0.063
+300000筆int   資料merge_sort的時間: 0.079
+300000筆string資料merge_sort的時間: 0.476
+400000筆double資料merge_sort的時間: 0.094
+400000筆float 資料merge_sort的時間: 0.095
+400000筆long  資料merge_sort的時間: 0.094
+400000筆int   資料merge_sort的時間: 0.079
+400000筆string資料merge_sort的時間: 0.66
+500000筆double資料merge_sort的時間: 0.131
+500000筆float 資料merge_sort的時間: 0.122
+500000筆long  資料merge_sort的時間: 0.126
+500000筆int   資料merge_sort的時間: 0.113
+500000筆string資料merge_sort的時間: 0.869
+Carray全部已跑完
