@@ -1,0 +1,4 @@
+std vector
+insertion_sort執行時間 
+10  筆double資料insertion_sort跑1000000次的時間: 0.462
+10  筆float 資料insertion_sort跑1000000次的時間: 0.231
