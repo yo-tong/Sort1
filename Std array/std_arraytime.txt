@@ -1,0 +1,57 @@
+merge_sort執行時間 
+10  筆double資料merge_sort跑1000000次的時間: 1.469
+10  筆float 資料merge_sort跑1000000次的時間: 1.368
+10  筆long  資料merge_sort跑1000000次的時間: 1.313
+10  筆int   資料merge_sort跑1000000次的時間: 1.337
+10  筆string資料merge_sort跑1000000次的時間: 3.695
+20  筆double資料merge_sort跑1000000次的時間: 3.262
+20  筆float 資料merge_sort跑1000000次的時間: 3.123
+20  筆long  資料merge_sort跑1000000次的時間: 3.091
+20  筆int   資料merge_sort跑1000000次的時間: 3.041
+20  筆string資料merge_sort跑1000000次的時間: 9.313
+30  筆double資料merge_sort跑1000000次的時間: 5.284
+30  筆float 資料merge_sort跑1000000次的時間: 5.043
+30  筆long  資料merge_sort跑1000000次的時間: 5.006
+30  筆int   資料merge_sort跑1000000次的時間: 4.906
+30  筆string資料merge_sort跑1000000次的時間: 15.469
+40  筆double資料merge_sort跑1000000次的時間: 7.125
+40  筆float 資料merge_sort跑1000000次的時間: 6.901
+40  筆long  資料merge_sort跑1000000次的時間: 6.891
+40  筆int   資料merge_sort跑1000000次的時間: 6.746
+40  筆string資料merge_sort跑1000000次的時間: 22.512
+50  筆double資料merge_sort跑1000000次的時間: 9.275
+50  筆float 資料merge_sort跑1000000次的時間: 9.007
+50  筆long  資料merge_sort跑1000000次的時間: 8.98
+50  筆int   資料merge_sort跑1000000次的時間: 8.785
+50  筆string資料merge_sort跑1000000次的時間: 30.142
+60  筆double資料merge_sort跑1000000次的時間: 11.467
+60  筆float 資料merge_sort跑1000000次的時間: 10.946
+60  筆long  資料merge_sort跑1000000次的時間: 10.837
+60  筆int   資料merge_sort跑1000000次的時間: 10.545
+60  筆string資料merge_sort跑1000000次的時間: 243.598
+100000筆double資料merge_sort的時間: 0.062
+100000筆float 資料merge_sort的時間: 0.032
+100000筆long  資料merge_sort的時間: 0.032
+100000筆int   資料merge_sort的時間: 0.031
+100000筆string資料merge_sort的時間: 0.205
+200000筆double資料merge_sort的時間: 0.078
+200000筆float 資料merge_sort的時間: 0.094
+200000筆long  資料merge_sort的時間: 0.063
+200000筆int   資料merge_sort的時間: 0.078
+200000筆string資料merge_sort的時間: 0.529
+300000筆double資料merge_sort的時間: 0.154
+300000筆float 資料merge_sort的時間: 0.103
+300000筆long  資料merge_sort的時間: 0.094
+300000筆int   資料merge_sort的時間: 0.095
+300000筆string資料merge_sort的時間: 0.963
+400000筆double資料merge_sort的時間: 0.161
+400000筆float 資料merge_sort的時間: 0.186
+400000筆long  資料merge_sort的時間: 0.149
+400000筆int   資料merge_sort的時間: 0.142
+400000筆string資料merge_sort的時間: 1.164
+500000筆double資料merge_sort的時間: 0.215
+500000筆float 資料merge_sort的時間: 0.173
+500000筆long  資料merge_sort的時間: 0.173
+500000筆int   資料merge_sort的時間: 0.173
+500000筆string資料merge_sort的時間: 1.598
+全部已跑完
